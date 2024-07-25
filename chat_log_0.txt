@@ -1,0 +1,19 @@
+
+Model:
+- Name:              gpt-3.5-turbo
+- Max Tokens:        1024
+- Temperature:       0.7
+- Streaming Enabled: True
+
+[user]
+Hello, how are you doing?
+
+[assistant]
+I'm doing well, thank you for asking! How can I assist you today?
+
+[user]
+What is 1+1?
+
+[assistant]
+1 + 1 equals 2. If you have any more math questions or need help with anything else, feel free to ask!
+

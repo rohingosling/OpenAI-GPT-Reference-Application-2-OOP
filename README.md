@@ -105,7 +105,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact Information
 - Twitter: [@rohingosling](https://x.com/rohingosling)
-- Project Link: [https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural)
+- Project Link: [https://github.com/rohingosling/OpenAI-GPT-Reference-Application-2-OOP](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-2-OOP)
 
 ## Acknowledgments
 - [OpenAI Platform](https://platform.openai.com/docs/overview)
